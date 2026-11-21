@@ -8,4 +8,4 @@ A simple text base python game where you must scape from a dark dungeon.
 4. Run the game using: python Dungeon_Escape.py
 
 # Steps to play directly from github
-Open the codespace url https://symmetrical-space-broccoli-r4xx54gv7vpjhxrp.github.dev/ .
+Open the codespace url [https://symmetrical-space-broccoli-r4xx54gv7vpjhxrp.github.dev/](https://glowing-computing-machine-vp5rr7w669pg2p4rr.github.dev/) .
